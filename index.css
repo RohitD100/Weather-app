@@ -1,0 +1,106 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+}
+
+#box {
+    width: 70%;
+    height: auto;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#container {
+    background-color: rgb(164, 146, 146);
+    width: 50%;
+    height: auto;
+    text-align: center;
+    padding-top: 20px;
+    justify-content: center;
+}
+
+p {
+    font-weight: bold;
+    color: white;
+}
+
+#box1 {
+    background-color: rgb(80, 40, 117);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+input {
+    width: 500px;
+    height: auto;
+    display: flex;
+    text-align: center;
+}
+
+button {
+    width: 100px;
+}
+
+
+
+h1 {
+    margin-top: 0%;
+    text-align: center;
+    background-color: rgb(80, 40, 117);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 0%;
+}
+
+#container>img {
+    height: 100px;
+}
+
+#bb {
+    background-color: rgb(80, 40, 117);
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+.geeks {
+    margin-left: 15px;
+    margin-right: 50px;
+}
+
+#end {
+    margin-top: 80px;
+    width: 100%;
+    height: auto;
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    background-color: rgb(129, 147, 215);
+}
+
+#end>div {
+    margin: auto;
+}
+
+#end>h1 {
+    color: black;
+    background-color: transparent;
+}
+
+#end>div>h1 {
+    color: black;
+    background-color: transparent;
+}
+
+#end>div>img {
+    width: 80px;
+}

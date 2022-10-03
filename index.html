@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wether</title>
+
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body
+    style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZjCp-JrVUVkZv0ITLd3NCGeCErdtpl0WAQ&usqp=CAU')"
+    onload="dikhao()">
+    <h1>RD Weather App</h1>
+    <div id="box1">
+        <input type="text" id="city" placeholder="Enter your City name">
+        <button onclick="getWether()">Submit</button>
+        <button class="geeks" onclick="getlocation()">
+            Get Your current Location
+        </button>
+        <p id="demo1"></p>
+    </div>
+    <div id="bb">
+        <h4 id="rr"></h4>
+
+    </div>
+    <div id="box">
+
+        <div id="container">
+            <h2>Today weather</h2>
+
+        </div>
+        <div class="mapouter">
+            <div class="gmap_canvas"><iframe width="650" height="650" id="gmap_canvas"
+                    src="https://maps.google.com/maps?q=pune&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+                    scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br>
+                <style>
+                    .mapouter {
+                        position: relative;
+                        text-align: right;
+                        height: 500px;
+                        width: 650px;
+                    }
+                </style><a href="https://www.embedgooglemap.net">embedgooglemap.net</a>
+                <style>
+                    .gmap_canvas {
+                        overflow: hidden;
+                        background: none !important;
+                        height: 500px;
+                        width: 650px;
+                    }
+                </style>
+            </div>
+        </div>
+
+    </div>
+    <div id="end">
+        <h1>Week Weather</h1>
+
+    </div>
+
+
+
+
+
+
+
+</body>
+
+</html>
+<script src="index.js"></script>
+
+
+
+<!-- https://api.themoviedb.org/3/movie/550?api_key=659c45d9e64010263f9f9a448cbb3251 -->
+
+<!-- https://api.themoviedb.org/3/trending/all/day?api_key=<<659c45d9e64010263f9f9a448cbb3251>> -->
