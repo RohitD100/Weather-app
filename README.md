@@ -19,6 +19,7 @@ https://transcendent-dusk-333abb.netlify.app/
 
 <h1 align='center'> Home Page </h1>
 <p align='center'> Location based weather app. User can also search for their cities and pickup location from map to see weather data of respective places. </p>
+<br/>
 
 <img src="https://github.com/RohitD100/Weather-app-/blob/main/RD%20weather%20App.png" />
 
