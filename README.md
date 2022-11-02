@@ -1,6 +1,6 @@
 
 <h1 align='center' > Weather_app </h1>
-<p  align='center'>A web application for getting weather information based on location. </p>
+<h3  align='center'>A web application for getting weather information based on location. </h3>
 
 
 <ul> Features: </ul>
@@ -11,11 +11,11 @@
 <li>Preloader</li> 
 
 <h1 align='center' > Tech Stack: </h1>
-<p  align='center'> HTML | CSS | JavaScript </p>
+<h4 align='center'> HTML | CSS | JavaScript </h4>
   
-<p align='center'> Here Netlify link
+<h4 align='center'> Here Netlify link
 https://transcendent-dusk-333abb.netlify.app/
-</p>
+</h4>
 
 <h1 align='center'> Home Page </h1>
 <p align='center'> Location based weather app. User can also search for their cities and pickup location from map to see weather data of respective places. </p>
