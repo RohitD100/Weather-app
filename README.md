@@ -18,5 +18,5 @@ https://transcendent-dusk-333abb.netlify.app/
 
 # Home Page
 #### This page shows the default weather information of Mumbai and google map, user can also see the map by zoom in and zoom out.
-<img src="https://i.ibb.co/r5cPgHq/RD-weather-App.png" />
+<img src="https://github.com/RohitD100/Weather-app-/blob/main/RD%20weather%20App.png" />
 
