@@ -23,5 +23,3 @@ https://transcendent-dusk-333abb.netlify.app/
 
 <img src="https://github.com/RohitD100/Weather-app-/blob/main/RD%20weather%20App.png" />
 
-
-Update Readme
